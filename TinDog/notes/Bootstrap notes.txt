@@ -1,0 +1,4 @@
+Grid system : To make Website more Responsive
+website divided into 12 columns
+
+eg : <div class="col-lg-3 col-md-6> : In laptop view divides into four columns (12/3=4) and into two columns in ipad view(12/6=2) and one column in mobile view

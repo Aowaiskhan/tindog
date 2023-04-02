@@ -1,0 +1,2 @@
+container : places all the elements in a container that is centred
+container-fluid: places all the elements in a container that  NOT is centred
